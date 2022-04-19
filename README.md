@@ -4,7 +4,6 @@
 - Yagom Academy iOS Career Stater Camp 3rd
 - E-Mail: jcrescent61@gmail.com
 - Blog: https://jcrescent61.tistory.com
-- Instagram: https://www.instagram.com/ellen.ios
 
 &nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcrescent61&layout=compact)
