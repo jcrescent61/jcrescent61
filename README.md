@@ -4,6 +4,7 @@
 - E-Mail: jcrescent61@gmail.com
 - Blog: https://jcrescent61.tistory.com
 - Yagom Academy iOS Career Stater Camp 3rd
+- FRIP iOS Developer (22.08.~22.11.)
 
 ### Career
 - [신입 개발자의 FRIP 탐험기! with GraphQL](https://medium.com/frientrip/ios-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-frip-%ED%83%90%ED%97%98%EA%B8%B0-with-graphql-68485278113d)
