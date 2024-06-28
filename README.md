@@ -2,7 +2,6 @@
 
 ### Information
 - E-Mail: jcrescent61@gmail.com
-- Blog: https://jcrescent61.tistory.com
 - Yagom Academy iOS Career Stater Camp 3rd
 - FRIP iOS Developer (22.08.~ 22.11.)
 - Aswemake iOS Developer (23.04 ~ 24.05)
