@@ -1,4 +1,4 @@
-### 개발에 몰입하고 싶은 개발자 엘렌(Ellen) 입니다.
+### 비즈니스의 성공을 돕는 개발자 엘렌(Ellen) 입니다.
 
 ### Information
 - E-Mail: jcrescent61@gmail.com
